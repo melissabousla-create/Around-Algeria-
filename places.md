@@ -13,7 +13,7 @@ Here are some places that I think are worth discovering.
 
 Béjaïa is a coastal city in the north of Algeria. It is surrounded by the Mediterranean Sea and mountains.
 
-![Cap Carbon in Béjaïa](images/bejaia-cap-carbon.jpg)
+![View of Béjaïa](images/Bejaia1.jpg)
 
 Some places to visit in Béjaïa are:
 
@@ -24,13 +24,13 @@ Some places to visit in Béjaïa are:
 
 Béjaïa is especially known for its beautiful natural landscapes.
 
-![Les Aiguades in Béjaïa](images/bejaia-aiguades.jpg)
+![Another view of Béjaïa](images/bejaia2.jpg)
 
 ## Algiers 🏛️
 
 Algiers is the **capital of Algeria**. The city is known for its white buildings and its location by the Mediterranean Sea.
 
-![View of Algiers](images/algiers.jpg)
+![View of Algiers](images/Algiers.png)
 
 One of its most famous places is the *Casbah of Algiers*, which is part of the UNESCO World Heritage List.
 
@@ -45,7 +45,7 @@ Other places to discover include:
 
 The Sahara covers a large part of Algeria and offers a completely different landscape from the north of the country.
 
-![Djanet in the Algerian Sahara](images/sahara-djanet.jpg)
+![Landscape of Djanet](images/Djanet.jpg)
 
 > The Algerian Sahara is not only a desert. It is also home to history, traditions and different communities.
 
@@ -55,13 +55,13 @@ Places such as **Tamanrasset**, **Djanet** and **Tassili n'Ajjer** are known for
 
 Oran is an important city in western Algeria. It is particularly famous for its music and its Mediterranean atmosphere.
 
-![View of Oran](images/oran.jpg)
+![View of Oran](images/Oran.jpg)
 
 Oran is also closely associated with **Raï music**, one of the most famous Algerian musical genres.
 
 ## Which one would I recommend?
 
-If I had to recommend one region to discover first, I would choose **Béjaïa** because it combines the sea, mountains and Algerian culture.
+If I had to recommend one region to discover first, I would choose **Béjaïa** because it combines the sea, mountains and Algerian culture.It is also my hometown, so it has a special place in my heart.
 
 ---
 
