@@ -14,8 +14,13 @@ body {
 /* Main header */
 
 .page-header {
-  background-color: #16423c;
-  background-image: linear-gradient(120deg, #0d5c46, #18392f);
+  background-image:
+    linear-gradient(rgba(10, 45, 35, 0.45), rgba(10, 45, 35, 0.45)),
+    url("../../images/algeria-banner.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* Main title */
