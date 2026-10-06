@@ -1,0 +1,78 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* General page */
+
+body {
+  background-color: #faf7f0;
+  font-family: "Georgia", serif;
+  color: #333333;
+}
+
+/* Main header */
+
+.page-header {
+  background-color: #16423c;
+  background-image: linear-gradient(120deg, #0d5c46, #18392f);
+}
+
+/* Main title */
+
+.project-name {
+  font-family: "Georgia", serif;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+}
+
+/* Subtitle */
+
+.project-tagline {
+  font-size: 1.2rem;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Page titles */
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #145a45;
+}
+
+/* Links */
+
+.main-content a {
+  color: #a33b32;
+  font-weight: bold;
+}
+
+/* Quotes */
+
+.main-content blockquote {
+  border-left: 4px solid #b58b4a;
+  background-color: #f4eee3;
+  padding: 12px 18px;
+  color: #555555;
+}
+
+/* Tables */
+
+.main-content table {
+  background-color: #ffffff;
+}
+
+.main-content th {
+  background-color: #e8eee8;
+  color: #16423c;
+}
+
+/* Horizontal lines */
+
+.main-content hr {
+  border: 0;
+  border-top: 2px solid #d6c6ad;
+  margin: 2rem 0;
+}
