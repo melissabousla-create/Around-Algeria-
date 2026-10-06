@@ -7,7 +7,7 @@ title: Home
 
 ## Discover the beauty, culture and traditions of Algeria
 
-![Beautiful view of Algeria](images/algeria-home.jpg)
+![Beautiful view of Algeria](images/algeria-home.jpg.jpg)
 
 Welcome to **Around Algeria**, a journey through one of the most diverse countries in North Africa.
 
