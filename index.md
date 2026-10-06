@@ -7,6 +7,8 @@ title: Home
 
 ## Discover the beauty, culture and traditions of Algeria
 
+![Beautiful view of Algeria](images/algeria-home.jpg)
+
 Welcome to **Around Algeria**, a journey through one of the most diverse countries in North Africa.
 
 From the blue waters of the *Mediterranean Sea* to the golden landscapes of the *Sahara Desert*, Algeria is a country full of contrasts, history and traditions.
