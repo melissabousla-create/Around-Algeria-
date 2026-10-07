@@ -9,6 +9,8 @@ Algerian cuisine is rich and varied. Each region has its own dishes, ingredients
 
 Food is also an important part of family life in Algeria. Many traditional dishes are prepared for celebrations, religious holidays or simply for family meals.
 
+![Traditional Algerian food](images/algerian-food.jpg)
+
 ## Couscous
 
 Couscous is probably one of the most famous Algerian dishes. It is made with semolina and is usually served with vegetables, meat and a sauce.
