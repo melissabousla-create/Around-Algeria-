@@ -13,6 +13,8 @@ From music and traditional clothes to celebrations and everyday life, Algerian c
 
 Traditional clothes are an important part of Algerian culture. Different regions have their own styles and traditions.
 
+![Traditional Algerian clothing](images/algerian-dresses.jpg)
+
 Some examples are:
 
 * The **Karakou**, traditionally associated with Algiers
@@ -25,6 +27,8 @@ These clothes are still worn today, especially during weddings and celebrations.
 ## Algerian Music 🎶
 
 Music is also an important part of Algerian culture.
+
+![Algerian music](images/algerian-music.jpg)
 
 Some popular Algerian musical styles include:
 
